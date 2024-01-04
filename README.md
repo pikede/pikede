@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=pikede&theme=dawnfox&hide_border=true)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikede&show_icons=true&theme=radical)
 
 <!--
 **pikede/pikede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
